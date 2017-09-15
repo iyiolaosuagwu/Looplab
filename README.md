@@ -21,3 +21,5 @@ npm start
 ```
 
 Files are compiled into /src
+
+Developer: iyiola osuagwu
